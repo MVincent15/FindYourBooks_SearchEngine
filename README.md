@@ -1,19 +1,30 @@
 # FindYourBooks_SearchEngine
 
+  ![MIT](https://img.shields.io/badge/license-MIT-green)
 
-WHEN I enter a valid email address and create a password and click on the signup button
-THEN my user account is created and I am logged in to the site
-WHEN I enter my account’s email address and password and click on the login button
-THEN I the modal closes and I am logged in to the site
-WHEN I am logged in to the site
-THEN the menu options change to Search for Books, an option to see my saved books, and Logout
-WHEN I am logged in and enter a search term in the input field and click the submit button
-THEN I am presented with several search results, each featuring a book’s title, author, description, image, and a link to that book on the Google Books site and a button to save a book to my account
-WHEN I click on the Save button on a book
-THEN that book’s information is saved to my account
-WHEN I click on the option to see my saved books
-THEN I am presented with all of the books I have saved to my account, each featuring the book’s title, author, description, image, and a link to that book on the Google Books site and a button to remove a book from my account
-WHEN I click on the Remove button on a book
-THEN that book is deleted from my saved books list
-WHEN I click on the Logout button
-THEN I am logged out of the site and presented with a menu with the options Search for Books and Login/Signup and an input field to search for books and a submit button  
+  ## Description 
+This is a MERN stack application that will search Google Books and display the results of the search. It allows you to login/signup and save corresponding books to the users account. 
+
+  ## Table of Contents
+  1. [Installation](#installation)
+  2. [Usage](#usage)
+  3. [Credits](#credits)
+  4. [License](#license)
+  5. [Questions](#questions)
+
+  ## Installation 
+  Git clone the repo, run npm i to install the necessary dependencies and npm run start to begin.
+
+
+  ## Usage
+  [Click here for URL to live application]()
+  
+  ## Credits 
+Used sections from SMU gitlab as well as documentation on react.
+
+  ## License 
+  This project uses the MIT license.
+
+
+  ## Questions 
+  If you have any questions about this repo please contact me directly at vincent.megan23@gmail.com. You can also see my work in GitHUb at (https://www.github.com/MVincent15).
