@@ -17,7 +17,7 @@ This is a MERN stack application that will search Google Books and display the r
 
 
   ## Usage
-  [Click here for URL to live application]()
+  [Click here for URL to live application](https://tranquil-ravine-40061-fa6c66787b97.herokuapp.com/)
   
   ## Credits 
 Used sections from SMU gitlab as well as documentation on react.
